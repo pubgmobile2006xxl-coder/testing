@@ -14,6 +14,9 @@ i18n
 
     interpolation: {
       escapeValue: false, 
+    },
+    backend:{
+        lodaPath:"/Locals/{{lng}}.json"
     }
   });
 

@@ -16,7 +16,11 @@ function Header() {
                         <li><a href="#">Work</a></li>
                         <li><a href="#">Blog</a></li>
                     </ul>
-                    
+                    <select name="" id="">
+                        <option value="uz">uzb</option>
+                        <option value="ru">rus</option>
+                        <option value="en">eng</option>
+                    </select>
                 </div>
             </div>
         </header>
